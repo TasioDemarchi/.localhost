@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "ec05e8df1ce39d2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a8b74249fc1dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f9c0ed6b1e5cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Proyect/Spring Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Framework"
+            }
+          },
+          {
+            "id": "3ce8b03d2f729074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Proyect/Spring Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Framework"
+            }
+          },
+          {
+            "id": "4b8b216c2ffebd93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99.Template/libro-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "libro-template"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fd412a4e8f454e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b352490391643a",
+        "type": "tabs",
+        "dimension": 66.46884272997032,
+        "children": [
+          {
+            "id": "9b373b3f96a13b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4582102f8bb8f8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31c7322f0ef9390a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "89dd3bcd3ff43856",
+        "type": "tabs",
+        "dimension": 33.531157270029674,
+        "children": [
+          {
+            "id": "cf7a2d29ef0f5474",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81b9c4c52261abbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "189005435a120608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e14eb06f1333a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99.Template/daily-notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for daily-notes"
+            }
+          },
+          {
+            "id": "03837faa03bfe835",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99.Template/daily-notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from daily-notes"
+            }
+          },
+          {
+            "id": "502f563f8f2a08e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc46330589e5fab4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3610ec6e5234cb7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.Proyect/Soft Skills.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Soft Skills"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4b8b216c2ffebd93",
+  "lastOpenFiles": [
+    "99.Template/proyect-template.md",
+    "99.Template/dev-note-template.md",
+    "99.Template/daily-notes.md",
+    "03.Resource/Prompt DB/Entrenamiento & Nutrición.md",
+    "01.Proyect/Como ganar amigos e influir en las personas.md",
+    "01.Proyect/Spring Framework.md",
+    "00.Inbox/Nota relacionada.md",
+    "00.Inbox/Spring-boot.md",
+    "02.Area/Personal Development/Spring-Core.md",
+    "03.Resource/Developer/Java Moderno.md",
+    "00.Inbox/Untitled.md",
+    "01.Proyect/Soft Skills.md",
+    "03.Resource/Prompt DB/Aprendizaje Profundo.md",
+    "03.Resource/Prompt DB/Gaming & Hardware.md",
+    "03.Resource/Prompt DB/Ejecución Plan Financiero 2026.md",
+    "03.Resource/Prompt DB/Technical Solutions.md",
+    "03.Resource/Prompt DB",
+    "03.Resource/Developer",
+    "90.Daily Notes/2025-12-14.md",
+    "90.Daily Notes/Invalid date.md",
+    "02.Area/Personal Development",
+    "02.Area/Fitness",
+    "Untitled",
+    "02.Area/Financial",
+    "02.Area/Career",
+    "00.Inbox/Soft Skills the software developer's manual.md",
+    "UntitledUntitled.md",
+    "Soft Skils.md",
+    "Untitled.md",
+    "90.Daily Notes",
+    "04.Archive/daily-notes",
+    "2025-12-02.md",
+    "99.Template/libro-template.md",
+    "Welcome.md",
+    "99.Template"
+  ]
+}
