@@ -146,4 +146,5 @@ List<String> emails = usuarios.stream()
 
 Hilos ligeros gestionados por la JVM en lugar del sistema operativo. Permiten crear millones de hilos para aplicaciones de alto rendimiento sin cambiar el modelo de programación. Ideal para aumentar el throughput en aplicaciones I/O intensivas (como APIs REST).
 
-  
+  - [ ] Entender patron builder (manual y con lombok) 
+  - [ ] Entender ENUMERADORES por **completo**

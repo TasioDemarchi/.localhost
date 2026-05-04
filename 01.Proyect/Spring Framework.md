@@ -6,7 +6,6 @@ tags:
 estado: 🟡 En Progreso
 deadline:
 ---
-
 # Proyecto: Spring Framework
 
 ## 🎯 Objetivo

@@ -1,0 +1,20 @@
+﻿# Obsidian internals
+.obsidian/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+
+# Canvas files
+*.canvas
+
+# Trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
